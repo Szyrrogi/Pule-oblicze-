@@ -47,3 +47,4 @@ D:\MojePliki\Pobrane\Pule-oblicze-\PuleObliczen\obj\Debug\net10.0\refint\PuleObl
 D:\MojePliki\Pobrane\Pule-oblicze-\PuleObliczen\obj\Debug\net10.0\PuleObliczen.pdb
 D:\MojePliki\Pobrane\Pule-oblicze-\PuleObliczen\obj\Debug\net10.0\PuleObliczen.genruntimeconfig.cache
 D:\MojePliki\Pobrane\Pule-oblicze-\PuleObliczen\obj\Debug\net10.0\ref\PuleObliczen.dll
+D:\MojePliki\Pobrane\Pule-oblicze-\PuleObliczen\obj\Debug\net10.0\PuleObliczen.sourcelink.json

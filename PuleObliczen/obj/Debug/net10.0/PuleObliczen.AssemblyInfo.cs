@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PuleObliczen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59d9ea92f71c87a32be1ef003f5de9623541bc86")]
 [assembly: System.Reflection.AssemblyProductAttribute("PuleObliczen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PuleObliczen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
